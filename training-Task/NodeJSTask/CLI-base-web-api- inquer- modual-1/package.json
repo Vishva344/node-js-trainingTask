@@ -1,0 +1,17 @@
+{
+  "type":"module",
+  "name": "cli-base-web-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@inquirer/prompts": "^1.0.0",
+    "inquirer": "^9.2.0"
+  }
+}
