@@ -1,0 +1,16 @@
+{
+  "type":"module",
+  "name": "cli-based-chat-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "mainserver.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.0"
+  }
+}
